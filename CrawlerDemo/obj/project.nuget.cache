@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "7olBjmbotPnJBe3MCRXF6rhT++/uf4FUWKX38a4sgMyNZPj/o+Q1bhcClgOgN/sZYpV0hV2PIwNMHZayPa/EGw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\CrawlerDemo\\CrawlerDemo\\CrawlerDemo\\CrawlerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cf303558\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\scrapysharp\\3.0.0\\scrapysharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0-preview1-26216-02\\system.configuration.configurationmanager.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\system.runtime.caching\\4.5.0-preview1-26216-02\\system.runtime.caching.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0-preview1-26216-02\\system.security.cryptography.protecteddata.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\cf303558\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
